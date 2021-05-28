@@ -1,3 +1,11 @@
+'''
+This file contains utilities for organizing data and loading into a
+TF dataset. 
+
+The function get_dataset takes as input filenames of numpy files sorted
+by the function organize_filenames.
+'''
+
 from nilearn.image import load_img
 import numpy as np
 import pandas as pd

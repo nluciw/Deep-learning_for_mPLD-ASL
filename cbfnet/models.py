@@ -1,3 +1,8 @@
+'''
+Functions to create two models: standard feed-forward CNN
+and U-Net CNN. 
+'''
+
 import numpy as np
 import tensorflow as tf
 
