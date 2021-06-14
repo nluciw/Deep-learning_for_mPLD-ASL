@@ -1,6 +1,6 @@
 This is the code corresponding to the paper:
 
-Automated Generation of Cerebral Blood Flow Maps Using Deep Learning and Multiple Delay Arterial Spin-Labelled MRI
+#### Automated Generation of Cerebral Blood Flow Maps Using Deep Learning and Multiple Delay Arterial Spin-Labelled MRI
 
 The paper can be cited as:
 
